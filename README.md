@@ -1,4 +1,5 @@
-# projeto-inicial-fetch-github-api
+# Repository search engine
+
 > Projeto feito com Java Script. Foi usado o método Fetch() para consumo da API do GitHub.
 
 ##Saiba mais
